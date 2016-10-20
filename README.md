@@ -1,4 +1,4 @@
-# gmuy10: Global Map Uruguay 2.0
+# gmuy20: Global Map Uruguay 2.0
 ## non-commercial use
 ![attribution](https://globalmaps.github.io/globalmaps/attribution.png)
 ## commercial use
